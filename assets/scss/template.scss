@@ -1,0 +1,61 @@
+// Make page header alignment consistent with widget page header alignment
+.universal-wrapper h1 {
+  text-align: center;
+}
+
+// Center the CTA shortcode button
+.cta-group {
+  justify-content: center;
+}
+
+.powered-by {
+  display: None;
+}
+
+footer .powered-by {
+    font-size: .10rem;
+}
+
+.copyright-license-text {
+  display: block;
+}
+
+.copyright-license-text a, a:hover, a:focus {
+  color: rgba(0,0,0,.54);
+  text-decoration: none; 
+}
+
+
+.article-metadata {
+  margin-bottom: 15px;
+  overflow: hidden;
+  font-size: 20px;
+  letter-spacing: .03em;
+  color: black;
+}
+
+.article-metadata a {
+  color: black;
+  pointer-events: none;
+}
+
+.stream-meta {
+  display: none;
+}
+
+.portrait-title h2 a {
+  pointer-events: none;
+}
+
+.people-person a {
+  pointer-events: none;
+}
+
+.fa-ul a{
+  color: black;
+  pointer-events: none;
+}
+
+.network-icon a {
+  pointer-events: auto;
+}
