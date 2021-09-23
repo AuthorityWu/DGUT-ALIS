@@ -24,9 +24,9 @@ design:
     <div class="container">
         <div class="row">
             <div class="col-12 col-lg-4">
-                <div id="profile"><img class="avatar avatar-circle" src="https://research-group.netlify.app/author/nelson-bighetti/avatar_hube350cae9c7ebe2ed4a58d0f8e0a54cc_2104099_270x270_fill_q75_lanczos_center.jpg" alt="Nelson Bighetti">
+                <div id="profile"><img class="avatar avatar-circle" src="avatar.png" alt="Yi Wang">
                     <div class="portrait-title">
-                        <h2>Nelson Bighetti</h2>
+                        <h2>Yi Wang</h2>
                         <h3>Professor of Artificial Intelligence</h3>
                         <h3><span>Stanford University</span></h3>
                     </div>
