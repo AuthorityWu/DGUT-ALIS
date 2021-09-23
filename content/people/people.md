@@ -18,7 +18,7 @@ content:
   user_groups:
   - Principal Investigators
   - Researchers
-  - Faculty
+  - Faculty Members
   - Postdocs
   - Research Assistants
   - Students
