@@ -24,7 +24,7 @@ The **DGUT-301 ALIS-Lab** has been a center of excellence for Artificial Intelli
     <div class="container">
         <div class="row">
             <div class="col-12 col-lg-4">
-                <div id="profile"><img class="avatar avatar-circle" src="https://dgut-alis.netlify.app/author/yi-wang/avatar_hu89df5c219375d0dea827182b2df18992_2700686_270x270_fill_lanczos_center_2.png" alt="Yi Wang">
+                <div id="profile"><img style="width: 50%;height: 50%;" class="avatar avatar-circle" src="https://dgut-alis.netlify.app/author/yi-wang/avatar_hu89df5c219375d0dea827182b2df18992_2700686_270x270_fill_lanczos_center_2.png" alt="Yi Wang">
                     <div class="portrait-title">
                         <h2 style="font-size: 1rem;">Yi Wang</h2>
                         <h3 style="font-size: 0.7rem;" >Professor of Artificial Intelligence</h3>
