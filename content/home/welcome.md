@@ -30,7 +30,7 @@ The **DGUT-301 ALIS-Lab** has been a center of excellence for Artificial Intelli
                         <h3 style="font-size: 0.7rem;" >
                             Dr. Yi （Alice） Wang， Ph.D. CS (RMIT, Australia), M. E. (Melb., Australia), B. E. (SCUT, China)
                         </h3>
-                        <h3 style="font-size: 0.8rem;" > 
+                        <h3 style="font-size: 0.8rem; color: black;" > 
                             <!-- <a style="text-decoration: none;color: rgba(0,0,0,.54);" href="https://css.dgut.edu.cn/list?14">Department of Software Engineering <a> >> -->
                             Professor In: 
                             <a href="https://css.dgut.edu.cn/list?14">Department of Software Engineering<a> >>
