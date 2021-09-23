@@ -19,6 +19,7 @@ content:
   - Principal Investigators
   - Researchers
   - Faculty
+  - Postdocs
   - Research Assistants
   - Students
   - Administration
