@@ -45,7 +45,7 @@ design:
 
 
 <div>
-  <h2 name="Adversarial-Attacks" style="display: block; text-align: center; margin: 50px 0 20px 0;">
+  <h2 id="Adversarial-Attacks" style="display: block; text-align: center; margin: 50px 0 20px 0;">
     Adversarial Attacks
   </h2>
   <div>
@@ -75,7 +75,7 @@ design:
 
 
 <div>
-  <h2 name="Adversarial-Detection" style="display: block; text-align: center; margin: 50px 0 20px 0;">
+  <h2 id="Adversarial-Detection" style="display: block; text-align: center; margin: 50px 0 20px 0;">
     Adversarial Detection
   </h2>
   <div>
@@ -102,7 +102,7 @@ design:
 <hr>  
 
 <div>
-  <h2 name="Improving-Adversarial-Robustness" style="display: block; text-align: center; margin: 50px 0 20px 0;">
+  <h2 id="Improving-Adversarial-Robustness" style="display: block; text-align: center; margin: 50px 0 20px 0;">
     Improving Adversarial Robustness
   </h2>
   <div>
@@ -129,7 +129,7 @@ design:
 <hr>  
 
 <div>
-  <h2 name="Privacy-Protection" style="display: block; text-align: center; margin: 50px 0 20px 0;">
+  <h2 id="Privacy-Protection" style="display: block; text-align: center; margin: 50px 0 20px 0;">
     Privacy Protection
   </h2>
   <div>
@@ -156,7 +156,7 @@ design:
 <hr>  
   
 <div>
-  <h2 name="Causality-Inference" style="display: block; text-align: center; margin: 50px 0 20px 0;">
+  <h2 id="Causality-Inference" style="display: block; text-align: center; margin: 50px 0 20px 0;">
     Causality Inference
   </h2>
   <div>
@@ -178,7 +178,7 @@ design:
 <hr>  
 
 <div>
-  <h2 name="Anomaly-Detection" style="display: block; text-align: center; margin: 50px 0 20px 0;">
+  <h2 id="Anomaly-Detection" style="display: block; text-align: center; margin: 50px 0 20px 0;">
     Anomaly Detection
   </h2>
   <div>
