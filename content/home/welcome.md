@@ -28,9 +28,9 @@ The **DGUT-301 ALIS-Lab** has been a center of excellence for Artificial Intelli
                     <div class="portrait-title">
                         <h2 style="font-size: 1.1rem;">Yi Wang</h2>
                         <h3 style="font-size: 0.8rem;" > 
-                            <a style="text-decoration: none;color: rgba(0,0,0,.54);" href="">Department of Software Engineering <a> >>
-                            <a style="text-decoration: none;color: rgba(0,0,0,.54);" href=""> School of Cyberspace Security </a> >> 
-                            <a style="text-decoration: none;color: rgba(0,0,0,.54);" href=""> Dongguan University of Technology</a>
+                            <a style="text-decoration: none;color: rgba(0,0,0,.54);" href="https://css.dgut.edu.cn/list?14">Department of Software Engineering <a> >>
+                            <a style="text-decoration: none;color: rgba(0,0,0,.54);" href="https://css.dgut.edu.cn/"> School of Cyberspace Security </a> >> 
+                            <a style="text-decoration: none;color: rgba(0,0,0,.54);" href="https://www.dgut.edu.cn/index.htm"> Dongguan University of Technology</a>
                         </h3>
                         <h3 style="font-size: 0.8rem;" >
                         Dr. Yi （Alice） Wang， Ph.D. CS (RMIT, Australia), M. E. (Melb., Australia), B. E. (SCUT, China)
