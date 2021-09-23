@@ -18,13 +18,14 @@ content:
   user_groups:
   - Principal Investigators
   - Researchers
+  - Faculty
+  - Research Assistants
   - Students
   - Administration
   - Visitors
   - Alumni
   - Collaborators
-  - Faculty
-  - Research Assistants
+  
 design:
   show_interests: false
   show_role: true
