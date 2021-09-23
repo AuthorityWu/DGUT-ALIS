@@ -22,12 +22,12 @@ design:
   <img style="margin: auto; width: 100%;" src="research.jpg">
 </div> -->
 
-<div>
+<div style="padding-top: 30px;">
   <span>
         Nowadays, deep learning (DL) is at core in many real-world applications. Recent studies found that DL systems are vulnerable to attacks by adversarial machine learning. It is a cat-and-mouse game between adversarial attacks and defense. Existing methods are often ad-hoc and thus limited in more realistic scenarios. We are interested in studying explainable methods in order to achieve a better trade-off between the utility and security/privacy requirements of DL. The following are research areas that we are currently working on.
   </span>
   <br>
-      <ul>
+      <ul style="padding-top: 30px;">
         <li>
           <a href="#Adversarial-Attacks">Adversarial Attacks</a>
         </li>
