@@ -98,7 +98,6 @@ design:
       <span>
         Many adversarial defenses focus on improving model robustness, which aim at making the underlying model more robust to adversarial attacks. Many techniques have been proposed in recent years, among which adversarial training can be considered as the most practical strategy to defend against adversarial attacks. However, adversarial training requires to generate large volumes of adversarial examples during the training phase, which introduces a high computational complexity. Moreover, it is unable to provide a guarantee that no adversarial example is capable of fooling model exists in the neighborhood of the given input, and the optimization is subject to the effectiveness of the attack method used in adversarial training. More importantly, there is generally a trade-off between classification accuracy and adversarial robustness for many defenses. Our research interest is to find more certified and effective mechanisms to make sure model security.
       </span>
-      <hr>  
       <ul>
         <!-- <li>Adversarial Machine Learning</li>
         <li>Federated Learning</li>
@@ -115,7 +114,7 @@ design:
     </div>
   </div>
 </div>
-
+<hr>  
 
 <div>
   <h2 style="display: block; text-align: center; margin: 50px 0 20px 0;">
@@ -126,7 +125,6 @@ design:
       <span>
         The field of machine learning privacy security includes two aspects. One is to focus on privacy leakage and expose privacy problems in machine learning models, including membership inference, property inference, sample reconstruction, and model extraction. Another focuses on privacy protection issues and studies how to prevent machine learning models from leaking privacy, including differential privacy, model compression, selective sharing and etc. Our research interest is privacy security issues in deep learning, including training data privacy and model privacy. At present, we have a certain understanding of the privacy issues in collaborative learning and have in-depth research on the data privacy leak from gradient.
       </span>
-      <hr>  
       <ul>
         <!-- <li>Adversarial Machine Learning</li>
         <li>Federated Learning</li>
@@ -143,7 +141,8 @@ design:
     </div>
   </div>
 </div>
-
+<hr>  
+  
 <div>
   <h2 style="display: block; text-align: center; margin: 50px 0 20px 0;">
     Causality Inference
@@ -153,7 +152,6 @@ design:
       <span>
         Causality is a generic relationship between an effect and the cause that gives rise to it. It is hard to define, and human often only know intuitively about causes and effects. When it comes to learning causality with data, researchers need to be aware of the differences between statistical associations and causations. It contains spurious and causal relationship in the statistical associations. The former makes deep model less effective, and the latter is significant for both classification and detection task. Causality Inference is an interpretable pattern for majority of applications，such as supervised learning，semi-supervised learning domain adaptation，reinforcement learning, disentanglement and so on. We are currently exploring disentanglement learning to find major factors which are meaningful for the downstream task in various data.
       </span>
-      <hr>  
     </div>
     <div style="display: inline-block; width: 100%;">
       <div style="margin-left:3%; float:left; width: 95%; height:95%;">
@@ -165,7 +163,7 @@ design:
     </div>
   </div>
 </div>
-
+<hr>  
 
 <div>
   <h2 style="display: block; text-align: center; margin: 50px 0 20px 0;">
@@ -176,7 +174,6 @@ design:
       <span>
         Anomaly detection is a step in data mining that identifies data points, events, and/or observations that deviate from a dataset’s normal behavior. Anomalous data can indicate critical incidents, such as a technical glitch, or potential opportunities, for instance a change in consumer behavior. Therefore, anomaly detection is an important problem that has been researched within diverse research areas and application domains. We are currently researching and developing a more general anomaly detection approach to provide a stronger guarantee for real application.
       </span>
-      <hr>  
     <!-- </div>
     <div style="display: inline-block; width: 100%;">
       <div style="margin-left:3%; float:left; width: 45%; height:100%;">
@@ -188,7 +185,7 @@ design:
     </div> -->
   </div>
 </div>
-
+<hr>  
 
 <!-- <div style="
     margin: auto;
