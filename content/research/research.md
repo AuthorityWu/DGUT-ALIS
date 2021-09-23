@@ -72,9 +72,6 @@ design:
       <div style="margin-left:3%; float:left; width: 95%; height:100%;">
         <img style="width:100%;" src="attacks.jpg">
       </div>
-      <!-- <div style="margin-right:3%; float:left; width: 45%; height:100%;">
-        <img style="width:100%;" src="4.jpg">
-      </div> -->
     </div>
   </div>
 </div>
@@ -100,9 +97,6 @@ design:
       <div style="margin-left:3%; float:left; width: 90%; height:80%;">
         <img style="width:100%;" src="detection.jpg">
       </div>
-      <!-- <div style="margin-right:3%; float:left; width: 45%; height:100%;">
-        <img style="width:100%;" src="4.jpg"> -->
-      </div>
     </div>
   </div>
 </div>
@@ -127,9 +121,6 @@ design:
       <div style="margin-left:3%; float:left; width: 95%; height:100%;">
         <img style="width:100%;" src="ensemble.jpg">
       </div>
-      <!-- <div style="margin-right:3%; float:left; width: 45%; height:100%;">
-        <img style="width:100%;" src="4.jpg"> -->
-      </div>
     </div>
   </div>
 </div>
@@ -153,10 +144,6 @@ design:
     <div style="display: inline-block; width: 100%;">
       <div style="margin-left:3%; float:left; width: 95%; height:100%;">
         <img style="width:100%;" src="privacy.jpg">
-      <!-- </div> -->
-      <!-- <div style="margin-right:3%; float:left; width: 45%; height:100%;">
-        <img style="width:100%;" src="4.jpg"> -->
-      <!-- </div> -->
     </div>
   </div>
 </div>
@@ -175,10 +162,6 @@ design:
     <div style="display: inline-block; width: 100%;">
       <div style="margin-left:3%; float:left; width: 95%; height:95%;">
         <img style="width:100%;" src="causality.png">
-      <!-- </div> -->
-      <!-- <div style="margin-right:3%; float:left; width: 45%; height:100%;">
-        <img style="width:100%;" src="4.jpg"> -->
-      <!-- </div> -->
     </div>
   </div>
 </div>
@@ -193,15 +176,11 @@ design:
       <span>
         Anomaly detection is a step in data mining that identifies data points, events, and/or observations that deviate from a dataset’s normal behavior. Anomalous data can indicate critical incidents, such as a technical glitch, or potential opportunities, for instance a change in consumer behavior. Therefore, anomaly detection is an important problem that has been researched within diverse research areas and application domains. We are currently researching and developing a more general anomaly detection approach to provide a stronger guarantee for real application.
       </span>
-    <!-- </div>
+    </div>
     <div style="display: inline-block; width: 100%;">
-      <div style="margin-left:3%; float:left; width: 45%; height:100%;">
-        <img style="width:100%;" src="3.jpg">
-      </div>
-      <div style="margin-right:3%; float:left; width: 45%; height:100%;">
-        <img style="width:100%;" src="4.jpg">
-      </div>
-    </div> -->
+      <div style="margin-left:3%; float:left; width: 95%; height:95%;">
+        <img style="width:100%;" src="causality.png">
+    </div>
   </div>
 </div>
 <hr>  
