@@ -51,9 +51,10 @@ The **DGUT-301 ALIS-Lab** has been a center of excellence for Artificial Intelli
             </div>
             <div class="col-12 col-lg-8">
                 <div class="article-style">
-                    <p style="font-size: 1rem;">Dr. Yi (Alice) Wang is a professor of Pattern Recognition and Machine Learning in the Department of Software Engineering at the Dongguan University of Technology. She received her PhD degree in Computer Science at the RMIT University, Melbourne, Australia, in 2009, a M. E. degree at the University of Melbourne (Melb.), Melbourne, Australia, in 2003, and a B.E. degree in Electronics Engineering at the South China University of Technology (SCUT), Guangzhou, China, in 2002, respectively. Dr. Wang held a joint position of Research Associate in the Eco-Stats Research Group within the School of Mathematics and Statistics, and the School of Computer Science and Engineering at the University of New South Wales (UNSW), Sydney, Australia, in 2009-2012. She served as a Research Assistant Professor at the Department of Computer Science of Hong Kong Baptist University (HKBU), Hong Kong, in 2012-2016. She joined Dongguan University of Technology (DGUT) since 2016 and currently leads the Research Group of Advanced Learning and Information Security (ALIS). </p>
+                    <h2>Biography</h2>
+                    <p style="font-size: 1rem;">Dr. Yi Wang is a professor of Pattern Recognition and Machine Learning in the Department of Software Engineering at the Dongguan University of Technology. She received her PhD degree in Computer Science at the RMIT University, Melbourne, Australia, in 2009, a M. E. degree at the University of Melbourne (Melb.), Melbourne, Australia, in 2003, and a B.E. degree in Electronics Engineering at the South China University of Technology (SCUT), Guangzhou, China, in 2002, respectively. Dr. Wang held a joint position of Research Associate in the <a href=" http://www.eco-stats.unsw.edu.au/">Eco-Stats Research Group</a> within the School of Mathematics and Statistics, and the School of Computer Science and Engineering at the University of New South Wales (UNSW), Sydney, Australia, in 2009-2012. She served as a Research Assistant Professor at the Department of Computer Science of Hong Kong Baptist University (HKBU), Hong Kong, in 2012-2016. She joined Dongguan University of Technology (DGUT) since 2016 and currently leads the Research Group of Advanced Learning and Information Security (ALIS). </p>
                 </div>
-                <div class="row">
+                <!-- <div class="row">
                     <div class="col-md-5">
                         <div class="section-subheading">Interests</div>
                         <ul class="ul-interests mb-0">
@@ -85,7 +86,7 @@ The **DGUT-301 ALIS-Lab** has been a center of excellence for Artificial Intelli
                             </li>
                         </ul>
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
     </div>
