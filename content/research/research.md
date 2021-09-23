@@ -43,7 +43,7 @@ design:
         1)	White-box attacks assume that the adversary knows all knowledge about the trained model: training data, network architectures, model parameters, etc. Most of these attacks are constructed with explicit model information, e.g., loss gradients. 
         2)	Black-box attacks assume that the adversary has no access to the trained model, the adversary, acting as a standard user, only knows the output of the model (label or confidence score). This assumption is common for attacking online Machin Learning Services (e.g., Machine Learning on AWS2, Google Cloud AI3). Currently, our research interests mainly focus on query-efficient black-box attacks due to its more practical application.
       </span>
-      <hr>  
+      
       <ul>
         <!-- <li>Adversarial Machine Learning</li>
         <li>Federated Learning</li>
@@ -60,6 +60,8 @@ design:
     </div>
   </div>
 </div>
+<hr>  
+
 
 <div>
   <h2 style="display: block; text-align: center; margin: 50px 0 20px 0;">
@@ -70,7 +72,7 @@ design:
       <span>
         Adversarial detection aims to distinguish adversarial examples from normal inputs and then by refusing to make prediction on malicious inputs to protect the trained model. By directly dealing with the learning model or not, adversarial detection methods may be further classified into model-dependent and model-agnostic approaches. The dependent schemes often leverage the underlying model properties or internal states to detect the adversarial class such as by adding detection layers/subnetworks or changing the loss/activation function. The model-agnostic detectors are mainly built based on analyzing the input and/or output feature characteristics without requiring access to the model under protection. Therefore, developing model-agnostic adversarial detection approach is important, we are researching on this meaningful topic.
       </span>
-      <hr>  
+
       <ul>
         <!-- <li>Adversarial Machine Learning</li>
         <li>Federated Learning</li>
@@ -87,6 +89,7 @@ design:
     </div>
   </div>
 </div>
+<hr>  
 
 <div>
   <h2 style="display: block; text-align: center; margin: 50px 0 20px 0;">
