@@ -22,13 +22,23 @@ design:
       </span>
       <ul>
         <li>
-          <a herf="#Adversarial-Attacks">Adversarial Attacks</a>
+          <a href="#Adversarial-Attacks">Adversarial Attacks</a>
         </li>
-        <li>Adversarial Detection</li>
-        <li>Improving Adversarial Robustness</li>
-        <li>Privacy Protection</li>
-        <li>Causality Inference</li>
-        <li>Anomaly Detection</li>
+        <li>
+          <a href="#Adversarial-Detection">Adversarial Detection</a>
+        </li>
+        <li>
+          <a href="#Improving-Adversarial-Robustness">Improving Adversarial Robustness</a>
+        </li>
+        <li>
+          <a href="#Privacy-Protection">Privacy Protection</a>
+        </li>
+        <li>
+          <a href="#Causality-Inference">Causality Inference</a>
+        </li>
+        <li>
+          <a href="#Anomaly-Detection">Anomaly Detection</a>
+        </li>
       </ul>
 </div>
 <hr>  
@@ -65,7 +75,7 @@ design:
 
 
 <div>
-  <h2 style="display: block; text-align: center; margin: 50px 0 20px 0;">
+  <h2 name="Adversarial-Detection" style="display: block; text-align: center; margin: 50px 0 20px 0;">
     Adversarial Detection
   </h2>
   <div>
@@ -92,7 +102,7 @@ design:
 <hr>  
 
 <div>
-  <h2 style="display: block; text-align: center; margin: 50px 0 20px 0;">
+  <h2 name="Improving-Adversarial-Robustness" style="display: block; text-align: center; margin: 50px 0 20px 0;">
     Improving Adversarial Robustness
   </h2>
   <div>
@@ -119,7 +129,7 @@ design:
 <hr>  
 
 <div>
-  <h2 style="display: block; text-align: center; margin: 50px 0 20px 0;">
+  <h2 name="Privacy-Protection" style="display: block; text-align: center; margin: 50px 0 20px 0;">
     Privacy Protection
   </h2>
   <div>
@@ -146,7 +156,7 @@ design:
 <hr>  
   
 <div>
-  <h2 style="display: block; text-align: center; margin: 50px 0 20px 0;">
+  <h2 name="Causality-Inference" style="display: block; text-align: center; margin: 50px 0 20px 0;">
     Causality Inference
   </h2>
   <div>
@@ -168,7 +178,7 @@ design:
 <hr>  
 
 <div>
-  <h2 style="display: block; text-align: center; margin: 50px 0 20px 0;">
+  <h2 name="Anomaly-Detection" style="display: block; text-align: center; margin: 50px 0 20px 0;">
     Anomaly Detection
   </h2>
   <div>
