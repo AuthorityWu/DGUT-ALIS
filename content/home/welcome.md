@@ -26,7 +26,7 @@ The **DGUT-301 ALIS-Lab** has been a center of excellence for Artificial Intelli
             <div class="col-12 col-lg-4">
                 <div id="profile"><img style="width: 50%;height: 50%;" class="avatar avatar-circle" src="https://dgut-alis.netlify.app/author/yi-wang/avatar_hu89df5c219375d0dea827182b2df18992_2700686_270x270_fill_lanczos_center_2.png" alt="Yi Wang">
                     <div class="portrait-title">
-                        <h2 style="font-size: 1.1rem;">Dr. Yi （Alice） Wang</h2>
+                        <h2 style="font-size: 1.1rem;">Dr. Yi Wang</h2>
                         <h3 style="font-size: 0.7rem;" >
                             Ph.D. CS (RMIT, Australia), M. E. (Melb., Australia), B. E. (SCUT, China)
                         </h3>
