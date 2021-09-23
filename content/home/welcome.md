@@ -33,8 +33,6 @@ design:
                     <ul class="network-icon" aria-hidden="true">
                         <li><a href="mailto:test@example.org" aria-label="envelope"><i
                                     class="fas fa-envelope big-icon"></i></a></li>
-                        <li><a href="https://twitter.com/GeorgeCushen" target="_blank" rel="noopener"
-                                aria-label="twitter"><i class="fab fa-twitter big-icon"></i></a></li>
                         <li><a href="https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ" target="_blank"
                                 rel="noopener" aria-label="google-scholar"><i
                                     class="ai ai-google-scholar big-icon"></i></a></li>
