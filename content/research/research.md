@@ -3,28 +3,28 @@ widget: blank
 headless: true
 
 # ... Put Your Section Options Here (title etc.) ...
-# title: In RESEARCH
+title: In RESEARCH
 subtitle:
 weight: 10  # section position on page
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
 ---
-<div>
+<!-- <div>
   <span>
   Nowadays, deep learning is playing a core function in various real-world applications. Recent studies found that deep learning systems are vulnerable to attacks by adversarial machine learning. For example, adversarial examples can cause malfunction of the system at inference time. It is a cat-and-mouse game between adversarial attacks and defense. Existing approaches of both sides are often ad-hoc and thus limited in more realistic situations. We are interested in studying explainable methods that can achieve a better trade-off between the utility and security/privacy requirements of deep learning. The following are research areas that we are currently working on.
   </span>
 </div>
 <br>
 <div class="section-heading col-12 mb-3 text-center"><h1 class="mb-0">In RESEARCH</h1></div>
-<br>
+<br> -->
 <!-- <div style="margin: auto;" >
   <img style="margin: auto; width: 100%;" src="research.jpg">
 </div> -->
 
 <div>
   <span>
-        The DGUT ALIS-Lab was established in 2016, fcousing on the security and privacy issues involved in Artificial Intelligence. Professor Yi Wang is the director of the laboratory. The current specific research topics mainly include the following aspects.
+        Nowadays, deep learning (DL) is at core in many real-world applications. Recent studies found that DL systems are vulnerable to attacks by adversarial machine learning. It is a cat-and-mouse game between adversarial attacks and defense. Existing methods are often ad-hoc and thus limited in more realistic scenarios. We are interested in studying explainable methods in order to achieve a better trade-off between the utility and security/privacy requirements of DL. The following are research areas that we are currently working on.
   </span>
       <ul>
         <li>
