@@ -43,11 +43,11 @@ The **DGUT-301 ALIS-Lab** has been a center of excellence for Artificial Intelli
             </div>
             <div class="col-12 col-lg-8">
                 <div class="article-style">
-                    <p>Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research
+                    <p style="font-size: 1rem;">Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research
                         interests include distributed robotics, mobile computing and programmable matter. He leads the
                         Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing
                         robots, and mobile sensor networks.</p>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat
+                    <p style="font-size: 1rem;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat
                         feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu
                         pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.</p>
                 </div>
