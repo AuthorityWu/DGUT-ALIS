@@ -16,9 +16,9 @@ design:
   css_class:
 ---
 
-<br>
+<!-- <br>
 
-<!-- The **DGUT-301 ALIS-Lab** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016. -->
+The **DGUT-301 ALIS-Lab** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016. -->
 
 <section id="profile-page" class="pt-5">
     <div class="container">
