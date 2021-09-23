@@ -12,7 +12,7 @@ weight: 10
 superuser: false
 
 # Role/position
-role: Research Assistant 
+# role: Research Assistant 
 
 # Organizations/Affiliations
 organizations:
@@ -64,7 +64,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Research Assistants
 ---
 
 Bo Huang is a Research Assistant  of computer science at the ALIS Lab.xxxxxxxxxxxxxxx
