@@ -28,7 +28,7 @@ design:
           <a href="#Adversarial-Detection">Adversarial Detection</a>
         </li>
         <li>
-          <a href="#Improving-Adversarial-Robustness">Improving Adversarial Robustness</a>
+          <a href="#Model-Robustness">Model Robustness</a>
         </li>
         <li>
           <a href="#Privacy-Protection">Privacy Protection</a>
@@ -102,8 +102,8 @@ design:
 <hr>  
 
 <div>
-  <h2 id="Improving-Adversarial-Robustness" style="display: block; text-align: center; margin: 50px 0 20px 0;">
-    Improving Adversarial Robustness
+  <h2 id="Model-Robustness" style="display: block; text-align: center; margin: 50px 0 20px 0;">
+    Model Robustness
   </h2>
   <div>
     <div style="float:left; padding-left: 20px; width: 100%">
