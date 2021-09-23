@@ -20,7 +20,7 @@ design:
   <span>
         The DGUT ALIS-Lab was established in 2016, fcousing on the security and privacy issues involved in Artificial Intelligence. Professor Yi Wang is the director of the laboratory. The current specific research topics mainly include the following aspects.
       </span>
-      <hr>  
+      
       <ul>
         <li>Adversarial Attacks</li>
         <li>Adversarial Detection</li>
@@ -30,6 +30,7 @@ design:
         <li>Anomaly Detection</li>
       </ul>
 </div>
+<hr>  
 
 
 <div>
