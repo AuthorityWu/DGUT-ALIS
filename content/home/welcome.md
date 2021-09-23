@@ -88,13 +88,5 @@ design:
                 </div>
             </div>
         </div>
-<!--         <div class="article-widget content-widget-hr">
-            <h3>Latest</h3>
-            <ul>
-                <li><a href="/publication/preprint/">An example preprint / working paper</a></li>
-                <li><a href="/publication/journal-article/">An example journal article</a></li>
-                <li><a href="/publication/conference-paper/">An example conference paper</a></li>
-            </ul>
-        </div> -->
     </div>
 </section>
