@@ -3,13 +3,20 @@ widget: blank
 headless: true
 
 # ... Put Your Section Options Here (title etc.) ...
-title: In RESEARCH
+# title: In RESEARCH
 subtitle:
 weight: 10  # section position on page
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
 ---
+<h2>
+  Nowadays, deep learning is playing a core function in various real-world applications. Recent studies found that deep learning systems are vulnerable to attacks by adversarial machine learning. For example, adversarial examples can cause malfunction of the system at inference time. It is a cat-and-mouse game between adversarial attacks and defense. Existing approaches of both sides are often ad-hoc and thus limited in more realistic situations. We are interested in studying explainable methods that can achieve a better trade-off between the utility and security/privacy requirements of deep learning. The following are research areas that we are currently working on.
+</h2>
+<br>
+<h1>
+  In RESEARCH
+</h1>
 
 <br>
 <!-- <div style="margin: auto;" >
@@ -19,7 +26,7 @@ design:
 <div>
   <span>
         The DGUT ALIS-Lab was established in 2016, fcousing on the security and privacy issues involved in Artificial Intelligence. Professor Yi Wang is the director of the laboratory. The current specific research topics mainly include the following aspects.
-      </span>
+  </span>
       <ul>
         <li>
           <a href="#Adversarial-Attacks">Adversarial Attacks</a>
