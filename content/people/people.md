@@ -23,6 +23,8 @@ content:
   - Visitors
   - Alumni
   - Collaborators
+  - Faculty
+  - Research Assistants
 design:
   show_interests: false
   show_role: true
