@@ -8,7 +8,7 @@ headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: |
   DGUT-Advanced Learning and Information Security Laboratory (ALIS-Lab)  
-# hero_media: 壁纸-猫.jpg
+  hero_media: welcome-img.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
