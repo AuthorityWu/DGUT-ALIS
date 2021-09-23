@@ -3,7 +3,7 @@ widget: blank
 headless: true
 
 # ... Put Your Section Options Here (title etc.) ...
-title: In Research 
+title: In RESEARCH
 subtitle:
 weight: 10  # section position on page
 design:
