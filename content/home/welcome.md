@@ -31,13 +31,13 @@ The **DGUT-301 ALIS-Lab** has been a center of excellence for Artificial Intelli
                         <h3 style="font-size: 0.8rem;"><span>Stanford University</span></h3>
                     </div>
                     <ul class="network-icon" aria-hidden="true">
-                        <li><a href="mailto:test@example.org" aria-label="envelope"><i
+                        <li><a href="mailto:wangyi@dgut.edu.cn" aria-label="envelope"><i
                                     class="fas fa-envelope big-icon"></i></a></li>
-                        <li><a href="https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ" target="_blank"
+                        <li><a href="https://scholar.google.com/citations?user=hYVi3vIAAAAJ&hl=zh-CN&oi=ao" target="_blank"
                                 rel="noopener" aria-label="google-scholar"><i
                                     class="ai ai-google-scholar big-icon"></i></a></li>
-                        <li><a href="https://github.com/gcushen" target="_blank" rel="noopener" aria-label="github"><i
-                                    class="fab fa-github big-icon"></i></a></li>
+                        <!-- <li><a href="https://github.com/gcushen" target="_blank" rel="noopener" aria-label="github"><i
+                                    class="fab fa-github big-icon"></i></a></li> -->
                     </ul>
                 </div>
             </div>
