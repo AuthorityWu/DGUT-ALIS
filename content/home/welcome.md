@@ -24,7 +24,7 @@ design:
     <div class="container">
         <div class="row">
             <div class="col-12 col-lg-4">
-                <div id="profile"><img class="avatar avatar-circle" src="avatar.png" alt="Yi Wang">
+                <div id="profile"><img class="avatar avatar-circle" src="./avatar.png" alt="Yi Wang">
                     <div class="portrait-title">
                         <h2>Yi Wang</h2>
                         <h3>Professor of Artificial Intelligence</h3>
