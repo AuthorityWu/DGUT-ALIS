@@ -13,7 +13,7 @@ weight: 9
 superuser: false
 
 # Role/position
-role: Student
+# role: Student
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
