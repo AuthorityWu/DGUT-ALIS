@@ -10,9 +10,9 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
 ---
-<h4>
+<span>
   Nowadays, deep learning is playing a core function in various real-world applications. Recent studies found that deep learning systems are vulnerable to attacks by adversarial machine learning. For example, adversarial examples can cause malfunction of the system at inference time. It is a cat-and-mouse game between adversarial attacks and defense. Existing approaches of both sides are often ad-hoc and thus limited in more realistic situations. We are interested in studying explainable methods that can achieve a better trade-off between the utility and security/privacy requirements of deep learning. The following are research areas that we are currently working on.
-</h4>
+</span>
 <br>
 <div class="section-heading col-12 mb-3 text-center"><h1 class="mb-0">In RESEARCH</h1></div>
 <br>
