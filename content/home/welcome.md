@@ -25,7 +25,7 @@ design:
     <div class="container">
         <div class="row">
             <div class="col-12 col-lg-4">
-                <div id="profile"><img class="avatar avatar-circle" src="https://avatars.githubusercontent.com/u/41245594?s=96&v=4" alt="Nelson Bighetti">
+                <div id="profile"><img class="avatar avatar-circle" src="https://research-group.netlify.app/author/nelson-bighetti/avatar_hube350cae9c7ebe2ed4a58d0f8e0a54cc_2104099_270x270_fill_q75_lanczos_center.jpg" alt="Nelson Bighetti">
                     <div class="portrait-title">
                         <h2>Nelson Bighetti</h2>
                         <h3>Professor of Artificial Intelligence</h3>
