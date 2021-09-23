@@ -27,8 +27,13 @@ The **DGUT-301 ALIS-Lab** has been a center of excellence for Artificial Intelli
                 <div id="profile"><img style="width: 50%;height: 50%;" class="avatar avatar-circle" src="https://dgut-alis.netlify.app/author/yi-wang/avatar_hu89df5c219375d0dea827182b2df18992_2700686_270x270_fill_lanczos_center_2.png" alt="Yi Wang">
                     <div class="portrait-title">
                         <h2 style="font-size: 1.1rem;">Yi Wang</h2>
-                        <h3 style="font-size: 0.8rem;" >Professor of Artificial Intelligence</h3>
-                        <h3 style="font-size: 0.8rem;"><span>Stanford University</span></h3>
+                        <h3 style="font-size: 0.8rem;" > <a href="">Department of Software Engineering<a> >> <a href="">School of Cyberspace Security</a> >> <a href="">Dongguan University of Technology</a>
+                        </h3>
+                        <h3 style="font-size: 0.8rem;" >
+                        Dr. Yi （Alice） Wang， Ph.D. CS (RMIT, Australia), M. E. (Melb., Australia), B. E. (SCUT, China)
+                        </h3>
+                        <!-- <h3 style="font-size: 0.8rem;" > <a href="">Stanford University </a> </h3>
+                        <h3 style="font-size: 0.8rem;" >  </h3> -->
                     </div>
                     <ul class="network-icon" aria-hidden="true">
                         <li><a href="mailto:wangyi@dgut.edu.cn" aria-label="envelope"><i
