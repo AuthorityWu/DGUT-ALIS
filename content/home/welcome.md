@@ -37,17 +37,6 @@ The **DGUT-301 ALIS-Lab** has been a center of excellence for Artificial Intelli
                             <a href="https://css.dgut.edu.cn/">School of Cyberspace Security</a> >>
                             <a href="https://www.dgut.edu.cn/index.htm">Dongguan University of Technology</a>
                         </h3>
-                        <!-- <h3 style="font-size: 0.8rem;" > 
-                            <a style="text-decoration: none;color: rgba(0,0,0,.54);" href="https://css.dgut.edu.cn/list?14">Department of Software Engineering<a> 
-                        </h3>
-                        <h3 style="font-size: 0.8rem;" > 
-                            <a style="text-decoration: none;color: rgba(0,0,0,.54);" href="https://css.dgut.edu.cn/"> School of Cyberspace Security</a> 
-                        </h3>
-                        <h3 style="font-size: 0.8rem;" > 
-                            <a style="text-decoration: none;color: rgba(0,0,0,.54);" href="https://www.dgut.edu.cn/index.htm"> Dongguan University of Technology</a>
-                        </h3> -->
-                        <!-- <h3 style="font-size: 0.8rem;" > <a href="">Stanford University </a> </h3>
-                        <h3 style="font-size: 0.8rem;" >  </h3> -->
                     </div>
                     <ul class="network-icon" aria-hidden="true">
                         <li><a href="mailto:wangyi@dgut.edu.cn" aria-label="envelope"><i
@@ -62,13 +51,7 @@ The **DGUT-301 ALIS-Lab** has been a center of excellence for Artificial Intelli
             </div>
             <div class="col-12 col-lg-8">
                 <div class="article-style">
-                    <p style="font-size: 1rem;">Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research
-                        interests include distributed robotics, mobile computing and programmable matter. He leads the
-                        Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing
-                        robots, and mobile sensor networks.</p>
-                    <p style="font-size: 1rem;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat
-                        feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu
-                        pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.</p>
+                    <p style="font-size: 1rem;">Dr. Yi (Alice) Wang is a professor of Pattern Recognition and Machine Learning in the Department of Software Engineering at the Dongguan University of Technology. She received her PhD degree in Computer Science at the RMIT University, Melbourne, Australia, in 2009, a M. E. degree at the University of Melbourne (Melb.), Melbourne, Australia, in 2003, and a B.E. degree in Electronics Engineering at the South China University of Technology (SCUT), Guangzhou, China, in 2002, respectively. Dr. Wang held a joint position of Research Associate in the Eco-Stats Research Group within the School of Mathematics and Statistics, and the School of Computer Science and Engineering at the University of New South Wales (UNSW), Sydney, Australia, in 2009-2012. She served as a Research Assistant Professor at the Department of Computer Science of Hong Kong Baptist University (HKBU), Hong Kong, in 2012-2016. She joined Dongguan University of Technology (DGUT) since 2016 and currently leads the Research Group of Advanced Learning and Information Security (ALIS). </p>
                 </div>
                 <div class="row">
                     <div class="col-md-5">
