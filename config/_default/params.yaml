@@ -9,6 +9,7 @@ theme: minimal
 day_night: false
 font: native
 font_size: L
+logo: 'logo.jpg'
 
 # SEO
 
