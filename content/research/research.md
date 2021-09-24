@@ -29,8 +29,7 @@ design:
         Nowadays, deep learning is at the core of many real-world application systems. Recent studies have found that deep learning empowered systems can be easily compromised by adversarial machine learning (AML). Like in other security studies, it is a cat-and-mouse game between the adversarial attacks and defense for deep learning. Existing methods from both sides are often ad-hoc and thus limited by their power to adapt in more realistic scenarios. We are interested in studying explainable methods in order to understand the learning process and achieve a better trade-off between the utility and security/privacy requirements of system models. The following are some research areas that we are currently working on:
   </span>
   <br>
-  <hr>
-      <ul>
+      <ul style="padding-top: 30px;">
         <li>
           <a href="#Adversarial-Attacks">Adversarial Attacks</a>
         </li>
@@ -52,7 +51,7 @@ design:
       </ul>
 </div>
 
-
+<hr>
 <div style="display: block;">
   <h2 id="Adversarial-Attacks" style="display: block; text-align: center; margin: 50px 0 20px 0;">
     Adversarial Attacks
@@ -73,10 +72,9 @@ design:
       </div>
     </div>
   </div>
-</div>
-<hr>  
+</div>  
 
-
+<hr>
 <div>
   <h2 id="Adversarial-Detection" style="display: block; text-align: center; margin: 50px 0 20px 0;">
     Adversarial Detection
@@ -84,23 +82,22 @@ design:
   <div>
     <div style="padding-left: 20px; width: 100%">
       <span>
-        Adversarial detection aims to distinguish adversarial examples from normal inputs and then by refusing to make prediction on malicious inputs to protect the trained model. By directly dealing with the learning model or not, adversarial detection methods may be further classified into model-dependent and model-agnostic approaches. The dependent schemes often leverage the underlying model properties or internal states to detect the adversarial class such as by adding detection layers/subnetworks or changing the loss/activation function. The model-agnostic detectors are mainly built based on analyzing the input and/or output feature characteristics without requiring access to the model under protection. Therefore, developing model-agnostic adversarial detection approach is important, we are researching on this meaningful topic.
+        Adversarial detection attempts to distinguish adversarial examples from the normal inputs. The goal is to maximize the chance of allowing only the legitimate input to the intended model. Adversarial detection methods may be classified into model-dependent and model-agnostic approaches depending on interacting with the intended model or not. The dependent schemes often leverage the underlying model properties or internal states to detect the adversarial class, e.g., by adding detection layers/subnetworks or changing the loss/activation function. The model-agnostic detectors are mainly built based on analyzing the input and/or output feature characteristics without requiring access to the intended model. Currently, we are working on model-agnostic methods for adversarial detection at different layers of DNN. For example, we apply random perturbations to the model input for multiple times and use the statistical patterns of relative changes in the model output for adversarial detection. Figure 2 shows the detection accuracy of this method which is particularly effective for detecting small adversarial perturbations.
       </span>
-      <ul>
-        <!-- <li>Adversarial Machine Learning</li>
-        <li>Federated Learning</li>
-        <li>Generated Adversarial Network</li> -->
-      </ul>
     </div>
-    <div style="display: inline-block; width: 100%;">
-      <div style="margin-left:3%; float:left; width: 90%; height:80%;">
-        <img style="width:100%;" src="Adversarial-Detection.jpg">
+    <div style="width: 100%;">
+      <div style="margin:auto; width: 95%; height:100%;">
+        <img style="width:100%; padding-top: 20px;" src="Adversarial-detection.jpg">
+      </div>
+      <div style="margin:auto; text-align: center; padding-top: 10px;">
+        <span>Figure 2 Adversarial detection accuracy of a model-agnostic method.</span>
       </div>
     </div>
   </div>
 </div>
-<hr>  
 
+
+<hr>  
 <div>
   <h2 id="Model-Robustness" style="display: block; text-align: center; margin: 50px 0 20px 0;">
     Model Robustness
@@ -108,17 +105,15 @@ design:
   <div>
     <div style="float:left; padding-left: 20px; width: 100%">
       <span>
-        Many adversarial defenses focus on improving model robustness, which aim at making the underlying model more robust to adversarial attacks. Many techniques have been proposed in recent years, among which adversarial training can be considered as the most practical strategy to defend against adversarial attacks. However, adversarial training requires to generate large volumes of adversarial examples during the training phase, which introduces a high computational complexity. Moreover, it is unable to provide a guarantee that no adversarial example is capable of fooling model exists in the neighborhood of the given input, and the optimization is subject to the effectiveness of the attack method used in adversarial training. More importantly, there is generally a trade-off between classification accuracy and adversarial robustness for many defenses. Our research interest is to find more certified and effective mechanisms to make sure model security.
+        Adversarial defense aims at improving the model robustness against adversarial attacks. Many defense techniques have been proposed in recent years. Popular defense paradigms include randomization techniques and training with regularizations. However, many of them are later shown defeated by stronger iterative attacks or adaptive adversaries.  So far, adversarial training has been considered as a standard method for defending against adversarial examples by data augmentation. However, adversarial training requires to generate large volumes of adversarial examples during the training phase, which introduces a high computational complexity. In general, there is a trade-off between classification accuracy and adversarial robustness in many defense methods. We are currently working on more effective methods of adversarial training by reducing its cost and improving its generalizability.  Figure 3 demonstrates our method of improving model robustness by promoting diversified simultaneous training of deep ensembles in comparison with STOA.
       </span>
-      <ul>
-        <!-- <li>Adversarial Machine Learning</li>
-        <li>Federated Learning</li>
-        <li>Generated Adversarial Network</li> -->
-      </ul>
     </div>
-    <div style="display: inline-block; width: 100%;">
-      <div style="margin-left:3%; float:left; width: 95%; height:100%;">
-        <img style="width:100%;" src="ensemble.jpg">
+    <div style="width: 100%;">
+      <div style="margin:auto; width: 95%; height:100%;">
+        <img style="width:100%; padding-top: 20px;" src="Model-Robustness.jpg">
+      </div>
+      <div style="margin:auto; text-align: center; padding-top: 10px;">
+        <span>Figure 3 Improving model robustness by promoting diversified learning of deep features in deep ensembles.</span>
       </div>
     </div>
   </div>
