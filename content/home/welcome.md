@@ -21,15 +21,15 @@ design:
 The **DGUT-301 ALIS-Lab** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016. -->
 
 <section id="profile-page" >
-    <div class="container">
+    <div class="container" style="padding-right: 0; padding-left: 0;">
         <div class="row">
             <div class="col-12 col-lg-4">
                 <div id="profile"><img style="width: 50%;height: 50%;" class="avatar avatar-circle" src="https://dgut-alis.netlify.app/author/yi-wang/avatar_hu89df5c219375d0dea827182b2df18992_2700686_270x270_fill_lanczos_center_2.png" alt="Yi Wang">
                     <div class="portrait-title">
                         <h2 style="font-size: 1.1rem;">Dr. Yi Wang</h2>
-                        <h3 style="font-size: 0.7rem;" >
+                        <!-- <h3 style="font-size: 0.7rem;" >
                             Ph.D. CS (RMIT, Australia), M. E. (Melb., Australia), B. E. (SCUT, China)
-                        </h3>
+                        </h3> -->
                         <h3 style="font-size: 0.8rem; color: black;" > 
                             <!-- <a style="text-decoration: none;color: rgba(0,0,0,.54);" href="https://css.dgut.edu.cn/list?14">Department of Software Engineering <a> >> -->
                             Professor In: 
@@ -37,7 +37,7 @@ The **DGUT-301 ALIS-Lab** has been a center of excellence for Artificial Intelli
                             <a href="https://css.dgut.edu.cn/">School of Cyberspace Security</a> >>
                             <a href="https://www.dgut.edu.cn/index.htm">Dongguan University of Technology</a>
                         </h3>
-                        <div class="col-md-7">
+                        <div>
                             <ul class="ul-edu fa-ul mb-0">
                                 <li><i class="fa-li fas fa-graduation-cap"></i>
                                     <div class="description">
