@@ -66,7 +66,8 @@ The **DGUT-301 ALIS-Lab** has been a center of excellence for Artificial Intelli
                         <li><a href="https://scholar.google.com/citations?user=hYVi3vIAAAAJ&hl=zh-CN&oi=ao" target="_blank"
                                 rel="noopener" aria-label="google-scholar"><i
                                     class="ai ai-google-scholar big-icon"></i></a></li>
-                        <li><img src="https://cdn-icons-png.flaticon.com/512/724/724664.png">：1234567890</li>
+                        <li><a href="#" target="_blank" rel="noopener" aria-label="github"><i class="fab fa-github big-icon"></i></a></li>
+                        <!-- <li><img src="https://cdn-icons-png.flaticon.com/512/724/724664.png">：1234567890</li> -->
                     </ul>
                 </div>
             </div>
