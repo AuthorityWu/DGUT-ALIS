@@ -89,7 +89,7 @@ design:
       <div style="margin:auto; width: 95%; height:100%;">
         <img style="margin: auto;width:60%;padding-top:20px;" src="detection.jpg">
       </div>
-      <div style="margin:auto;text-align:center;padding-top:10px;padding-bottom: 30px;">
+      <div style="width:80%; margin:auto;text-align:center;padding-top:10px;padding-bottom: 30px;">
         <span>Figure 2 Adversarial detection accuracy of a model-agnostic method with respect to an increasing strength of adversarial perturbation.</span>
       </div>
     </div>
