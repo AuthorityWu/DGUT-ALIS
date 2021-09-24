@@ -66,9 +66,9 @@ design:
     </div>
     <div style="width: 100%;">
       <div style="margin:auto; width: 95%; height:100%;">
-        <img style="width:100%;" src="Adversarial-Attacks.jpg">
+        <img style="width:100%; padding-top: 20px;" src="Adversarial-Attacks.jpg">
       </div>
-      <div style="margin:auto; text-align: center;">
+      <div style="margin:auto; text-align: center; padding-top: 10px;">
         <span> Figure 1 An example of adversarial attack on CBIR systems.</span>
       </div>
     </div>
