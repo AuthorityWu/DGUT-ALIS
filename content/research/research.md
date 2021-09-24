@@ -183,6 +183,7 @@ design:
     </div> -->
   </div>
 </div>
+
 <hr>
 
 <div>
@@ -191,13 +192,13 @@ design:
   </h2>
   <div>
     <div style="display: inline-block; width: 100%;">
-      <div style="float:left; padding-left: 20px; width: 100%">
+      <div style="float:left; padding-left: 20px; width: 65%">
         <span>
           Anomaly detection is a step in data mining that identifies data points, events, and/or observations that deviate from a dataset’s normal behavior. Anomalous data can indicate critical incidents, such as a technical glitch, or potential opportunities, for instance a change in consumer behavior. Therefore, anomaly detection is an important problem that has been researched within diverse research areas and application domains. We are currently researching and developing a more general anomaly detection approach to provide a stronger guarantee for real application.
         </span>
       </div>
-      <div style="margin-left:3%; float:left; width: 95%; height:95%;">
-        <img style="width:100%;" src="1.png">
+      <div style="margin-left:3%; float:left; width: 30%; height:95%;">
+        <img style="width:100%;" src="1.jpg">
       <div>
     </div>
   </div>
