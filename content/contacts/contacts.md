@@ -26,7 +26,7 @@ design:
                     <li style="margin-bottom: 20px;">
                         <i class="fa-li fas fa-phone fa-2x" aria-hidden="true"></i>
                         <span id="person-telephone">
-                            <a href="tel:+86%200769-2286-2015">+86 0769-2286-2015</a>
+                            <a href="tel:+86%200769-2286-2015">+86 （0769） 2286 2015</a>
                         </span>
                     </li>
                     <li style="margin-bottom: 20px;">
