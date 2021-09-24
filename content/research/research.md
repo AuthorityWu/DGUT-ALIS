@@ -51,7 +51,7 @@ design:
 <hr>  
 
 
-<div>
+<div style="display: block;">
   <h2 id="Adversarial-Attacks" style="display: block; text-align: center; margin: 50px 0 20px 0;">
     Adversarial Attacks
   </h2>
@@ -64,7 +64,7 @@ design:
     <div style="display: block; width: 100%;">
       <div style="margin-left:3%; float:left; width: 95%; height:100%;">
         <img style="display: block; width:100%;" src="Adversarial-Attacks.jpg">
-        <span style="display: block;"> Figure 1 An example of adversarial attack on CBIR systems. </span>
+        <span style="display: block;"> Figure 1 An example of adversarial attack on CBIR systems.</span>
       </div>
     </div>
   </div>
