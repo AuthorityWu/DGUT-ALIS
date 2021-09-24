@@ -162,6 +162,7 @@ design:
     <div style="display: inline-block; width: 100%;">
       <div style="margin-left:3%; float:left; width: 95%; height:95%;">
         <img style="width:100%;" src="causality.png">
+      </div>
     </div>
   </div>
 </div>
