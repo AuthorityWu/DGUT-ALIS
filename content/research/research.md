@@ -70,7 +70,7 @@ design:
     </div>
     <div style="display: inline-block; width: 100%;">
       <div style="margin-left:3%; float:left; width: 95%; height:100%;">
-        <img style="width:100%;" src="attacks.jpg">
+        <img style="width:100%;" src="Adversarial-Attacks.jpg">
       </div>
     </div>
   </div>
@@ -95,7 +95,7 @@ design:
     </div>
     <div style="display: inline-block; width: 100%;">
       <div style="margin-left:3%; float:left; width: 90%; height:80%;">
-        <img style="width:100%;" src="detection.jpg">
+        <img style="width:100%;" src="Adversarial-Detection.jpg">
       </div>
     </div>
   </div>
