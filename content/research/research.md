@@ -29,9 +29,8 @@ design:
         Nowadays, deep learning is at the core of many real-world application systems. Recent studies have found that deep learning empowered systems can be easily compromised by adversarial machine learning (AML). Like in other security studies, it is a cat-and-mouse game between the adversarial attacks and defense for deep learning. Existing methods from both sides are often ad-hoc and thus limited by their power to adapt in more realistic scenarios. We are interested in studying explainable methods in order to understand the learning process and achieve a better trade-off between the utility and security/privacy requirements of system models. The following are some research areas that we are currently working on:
   </span>
   <br>
-  <hr>
-      <!-- <ul style="padding-top: 30px;"> -->
-      <ul>
+  <!-- <hr> -->
+      <ul style="padding-top: 30px;">
         <li>
           <a href="#Adversarial-Attacks">Adversarial Attacks</a>
         </li>
@@ -53,12 +52,11 @@ design:
       </ul>
 </div>
 
-
+<hr>  
 <div style="display: block;">
   <h2 id="Adversarial-Attacks" style="display: block; text-align: center; margin: 50px 0 20px 0;">
     Adversarial Attacks
   </h2>
-  <hr>  
   <div>
     <div style="padding-left: 20px; width: 100%">
       <span>
@@ -76,12 +74,11 @@ design:
   </div>
 </div>  
 
-
+<hr>  
 <div>
   <h2 id="Adversarial-Detection" style="display: block; text-align: center; margin: 50px 0 20px 0;">
     Adversarial Detection
   </h2>
-  <hr>  
   <div>
     <div style="padding-left: 20px; width: 100%">
       <span>
@@ -99,12 +96,11 @@ design:
   </div>
 </div>
 
-
+<hr>  
 <div>
   <h2 id="Model-Robustness" style="display: block; text-align: center; margin: 50px 0 20px 0;">
     Model Robustness
   </h2>
-  <hr>  
   <div>
     <div style="float:left; padding-left: 20px; width: 100%">
       <span>
