@@ -86,7 +86,7 @@ The **DGUT-301 ALIS-Lab** has been a center of excellence for Artificial Intelli
                         </ul>
                     </div>
                     <div class="col-md-7">
-                        <img src="welcome-img.jpg">
+                        <img src="/home/welcome-img.jpg">
                     </div>
                 </div>
             </div>
