@@ -56,7 +56,6 @@ design:
   <h2 id="Adversarial-Attacks" style="display: block; text-align: center; margin: 50px 0 20px 0;">
     Adversarial Attacks
   </h2>
-  <hr>  
   <div>
     <div style="padding-left: 20px; width: 100%">
       <span>
