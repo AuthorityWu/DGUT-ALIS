@@ -65,7 +65,7 @@ design:
     </div>
     <div style="width: 100%;">
       <div style="margin:auto; width: 95%; height:100%;">
-        <img style="width:100%; padding-top: 20px;" src="Adversarial-Attacks.jpg">
+        <img style="margin: auto;width:60%;padding-top:20px;" src="Adversarial-Attacks.jpg">
       </div>
       <div style="margin:auto;text-align:center;padding-top:10px;padding-bottom: 30px;">
         <span> Figure 1 An example of adversarial attack on CBIR systems.</span>
@@ -87,7 +87,7 @@ design:
     </div>
     <div style="width: 100%;">
       <div style="margin:auto; width: 95%; height:100%;">
-        <img style="width:100%; padding-top: 20px;" src="Adversarial-detection.jpg">
+        <img style="margin: auto;width:60%;padding-top:20px;" src="Adversarial-detection.jpg">
       </div>
       <div style="margin:auto;text-align:center;padding-top:10px;padding-bottom: 30px;">
         <span>Figure 2 Adversarial detection accuracy of a model-agnostic method.</span>
@@ -109,7 +109,7 @@ design:
     </div>
     <div style="width: 100%;">
       <div style="margin:auto; width: 95%; height:100%;">
-        <img style="width:100%; padding-top: 20px;" src="Model-Robustness.jpg">
+        <img style="margin: auto;width:60%;padding-top:20px;" src="Model-Robustness.jpg">
       </div>
       <div style="margin:auto;text-align:center;padding-top:10px;padding-bottom: 30px;">
         <span>Figure 3 Improving model robustness by promoting diversified learning of deep features in deep ensembles.</span>
