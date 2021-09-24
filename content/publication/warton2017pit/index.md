@@ -1,6 +1,6 @@
 ---
 # title: "An example conference paper"
-title: "The PIT-trap—A “model-free” bootstrap procedure for inference about regression models with discrete, multivariate responses"
+title: "The PIT-trap—A “model-free” Bootstrap Procedure for Inference about Regression Models with Discrete, Multivariate Responses"
 authors:
 - Jianwu Wan
 - Yi Wang 

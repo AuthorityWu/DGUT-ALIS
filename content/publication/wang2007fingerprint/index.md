@@ -1,6 +1,6 @@
 ---
 # title: "An example conference paper"
-title: "A fingerprint orientation model based on 2D Fourier expansion (FOMFE) and its application to singular-point detection and fingerprint indexing"
+title: "A Fingerprint Orientation Model Based on 2D Fourier Expansion (FOMFE) and Its Application to Singular-point Detection and Fingerprint Indexing"
 authors:
 - Yi Wang
 - Jiankun Hu
