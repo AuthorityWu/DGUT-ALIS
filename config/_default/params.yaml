@@ -22,18 +22,18 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: wangyi@dgut.edu.cn
-# phone: 888 888 88 88
+phone: +86 0769-2286-2015
 address:
-  street: Daxue Road
+  street: No.1 University Road
   city: Dongguan
-  region: Songshanhu
+  region: Songshan Lake
   postcode: '523808'
   country: China
   country_code: cn
 coordinates:
-  latitude: '22.910113'
-  longitude: '113.881469'
-directions: Computer Academy Building 9A 301
+  latitude: '22.90522222222'
+  longitude: '113.8741'
+directions: Building 9A 301
 office_hours:
   - '09:00 to 17:00'
 # appointment_url: 'https://calendly.com'
