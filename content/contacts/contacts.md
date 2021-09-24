@@ -39,7 +39,7 @@ design:
                     </li>
                 </ul>
             </div>
-            <div style="margin-top=30px; width:90%;">
+            <div style="margin-top: 30px; width:90%;">
                 <img src="map.jpg">
             </div>
         </div>
