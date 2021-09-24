@@ -20,7 +20,7 @@ design:
 
 The **DGUT-301 ALIS-Lab** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016. -->
 
-<section id="profile-page" class="pt-5">
+<section id="profile-page" >
     <div class="container">
         <div class="row">
             <div class="col-12 col-lg-4">
