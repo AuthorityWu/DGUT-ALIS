@@ -17,31 +17,30 @@ design:
         <div class="row justify-content-center">
             <div class="col-12">
                 <ul class="fa-ul">
-                    <li>
+                    <li style="margin-bottom: 20px;">
                         <i class="fa-li fas fa-envelope fa-2x" aria-hidden="true"></i>
                         <span id="person-email">
                             <a href="mailto:wangyi@dgut.edu.cn">wangyi@dgut.edu.cn</a>
                         </span>
                     </li>
-                    <li>
+                    <li style="margin-bottom: 20px;">
                         <i class="fa-li fas fa-phone fa-2x" aria-hidden="true"></i>
                         <span id="person-telephone">
                             <a href="tel:+86%200769-2286-2015">+86 0769-2286-2015</a>
                         </span>
                     </li>
-                    <li>
+                    <li style="margin-bottom: 20px;">
                         <i class="fa-li fas fa-compass fa-2x" aria-hidden="true"></i>
                         <span>School of Cybersecurity, Building 9A, Level 3, Room 301</span>
                     </li>
-                    <li>
+                    <li style="margin-bottom: 20px;">
                         <i class="fa-li fas fa-map-marker fa-2x" aria-hidden="true"></i>
                         <span id="person-address">No.1 University Road, Songshan Lake, Dongguan, Guangdong, China 523808</span>
                     </li>
-                    <!-- <li>
-                        <i class="fa-li fas fa-clock fa-2x" aria-hidden="true"></i>
-                        <span>09:00 ~ 17:00</span>
-                    </li> -->
                 </ul>
+            </div>
+            <div>
+                <img src="map.jpg">
             </div>
         </div>
     </div>
