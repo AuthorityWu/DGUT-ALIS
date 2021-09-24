@@ -1,6 +1,6 @@
 ---
 # title: "An example conference paper"
-title: "Decision-based evasion attacks on tree ensemble classifiers"
+title: "Decision-based Evasion Attacks on Tree Ensemble Classifiers"
 authors:
 - Fuyong Zhang
 - Yi Wang

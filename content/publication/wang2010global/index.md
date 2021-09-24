@@ -1,6 +1,6 @@
 ---
 # title: "An example conference paper"
-title: "Global ridge orientation modeling for partial fingerprint identification"
+title: "Global Ridge Orientation Modeling for Partial Fingerprint Identification"
 authors:
 - Yi Wang
 - Jiankun Hu 

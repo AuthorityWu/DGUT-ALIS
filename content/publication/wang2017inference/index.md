@@ -1,6 +1,6 @@
 ---
 # title: "An example conference paper"
-title: "Inference-based similarity search in randomized Montgomery domains for privacy-preserving biometric identification"
+title: "Inference-based Similarity Search in Randomized Montgomery Domains for Privacy-preserving Biometric Identification"
 authors:
 - Yi Wang
 - Jianwu Wan 
