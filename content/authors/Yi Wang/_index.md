@@ -13,7 +13,7 @@ weight: 1
 superuser: false
 
 # Role/position
-role: Professor
+role: Prof.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

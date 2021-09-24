@@ -1,19 +1,19 @@
 ---
 # Display name
-title: Jianping Yin
+title: Fuyong Zhang
 
 # Username (this should match the folder name)
 authors:
-- Jianping Yin
+- Fuyong Zhang
 
-weight: 2
+weight: 10
 
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor
+role: A/Prof.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -22,10 +22,10 @@ role: Professor
 social:
 - icon: google-scholar
   icon_pack: ai
-  link: https://www.researchgate.net/profile/Jianping-Yin
+  link: https://scholar.google.com/citations?user=3UDMM80AAAAJ&hl=zh-CN&oi=ao
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:jpyin@dgut.edu.cn'
+  link: 'mailto:zhangfy@dgut.edu.cn'
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/AuthorityWu
