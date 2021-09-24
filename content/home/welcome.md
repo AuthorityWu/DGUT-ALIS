@@ -71,7 +71,7 @@ The **DGUT-301 ALIS-Lab** has been a center of excellence for Artificial Intelli
                     </ul>
                 </div>
             </div>
-            <div class="col-12 col-lg-8">
+            <div class="col-12 col-lg-8" style="margin-top: 50px;">
                 <div class="article-style">
                     <!-- <h2>Biography</h2> -->
                     <p style="font-size: 1rem;">Dr. Yi Wang is a professor of artificial intelligence in the Department of Software Engineering at the <a href="https://www.dgut.edu.cn/index.htm">Dongguan University of Technology (DGUT)</a>. She worked as a research associate with the School of Mathematics and Statistics and the School of Computer Science and Engineering at <a href="https://www.unsw.edu.au">the University of New South Wales (UNSW)</a>, Sydney, Australia, in 2009-2012. She worked as a research assistant professor with the Department of Computer Science at <a href="https://www.hkbu.edu.hk/eng/main/index.jsp">Hong Kong Baptist University (HKBU)</a>, Hong Kong, in 2012-2016. She joined DGUT in 2016 and currently leads the Research Group of Advanced Learning and Information Security (ALIS). </p>
@@ -87,7 +87,7 @@ The **DGUT-301 ALIS-Lab** has been a center of excellence for Artificial Intelli
                             <li>Anomaly Detection</li>
                         </ul>
                     </div>
-                    <div class="col-md-7">
+                    <div class="col-md-7" style="margin-top: 50px;">
                         <img src="/home/welcome-img.jpg">
                     </div>
                 </div>
