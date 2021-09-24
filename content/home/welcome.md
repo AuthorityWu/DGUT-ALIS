@@ -85,6 +85,9 @@ The **DGUT-301 ALIS-Lab** has been a center of excellence for Artificial Intelli
                             <li>Biometrics Identification</li>
                         </ul>
                     </div>
+                    <div class="col-md-7">
+                        <img src="welcome-img.jpg">
+                    </div>
                 </div>
             </div>
         </div>
