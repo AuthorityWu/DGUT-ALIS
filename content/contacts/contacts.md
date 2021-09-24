@@ -10,7 +10,7 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
 ---
-
+<div>
 <section id="contact" class="home-section wg-contact">
     <div class="home-section-bg"></div>
     <div class="container">
@@ -48,5 +48,5 @@ design:
             </div>
         </div>
     </div>
-</section
-            
+</section>
+</div>       
