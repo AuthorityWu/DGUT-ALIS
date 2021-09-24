@@ -15,9 +15,6 @@ design:
     <div class="home-section-bg"></div>
     <div class="container">
         <div class="row justify-content-center">
-            <div class="section-heading col-12 mb-3 text-center">
-                <h1 class="mb-0">Contact</h1>
-            </div>
             <div class="col-12">
                 <ul class="fa-ul">
                     <li>
