@@ -30,7 +30,7 @@ design:
   </span>
   <br>
   <hr>
-      <ul style="padding-top: 30px;">
+      <ul style="padding-top: 10px;">
         <li>
           <a href="#Adversarial-Attacks">Adversarial Attacks</a>
         </li>
