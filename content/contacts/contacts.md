@@ -11,7 +11,7 @@ design:
   columns: '1'
 ---
 
-<section id="contact" class="home-section wg-contact">
+<section id="contact" class="home-section wg-contact" style="padding: 0;width: 95%;">
     <div class="home-section-bg"></div>
     <div class="container">
         <div class="row justify-content-center">
@@ -39,7 +39,7 @@ design:
                     </li>
                 </ul>
             </div>
-            <div style="margin-top=30px;">
+            <div style="margin-top=30px; width:90%;">
                 <img src="map.jpg">
             </div>
         </div>
