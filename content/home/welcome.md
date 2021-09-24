@@ -37,6 +37,28 @@ The **DGUT-301 ALIS-Lab** has been a center of excellence for Artificial Intelli
                             <a href="https://css.dgut.edu.cn/">School of Cyberspace Security</a> >>
                             <a href="https://www.dgut.edu.cn/index.htm">Dongguan University of Technology</a>
                         </h3>
+                        <div class="col-md-7">
+                            <ul class="ul-edu fa-ul mb-0">
+                                <li><i class="fa-li fas fa-graduation-cap"></i>
+                                    <div class="description">
+                                        <p class="course">PhD in Computer Science, 2009</p>
+                                        <p class="institution">RMIT University, Melbourne, Australia</p>
+                                    </div>
+                                </li>
+                                <li><i class="fa-li fas fa-graduation-cap"></i>
+                                    <div class="description">
+                                        <p class="course">MEng in Telecommunications, 2003</p>
+                                        <p class="institution">the University of Melbourne (Melb.), Melbourne Australia</p>
+                                    </div>
+                                </li>
+                                <li><i class="fa-li fas fa-graduation-cap"></i>
+                                    <div class="description">
+                                        <p class="course">BEng in Electronics Engineering, 2002</p>
+                                        <p class="institution">the South China University of Technology (SCUT), Guangzhou, China</p>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
                     </div>
                     <ul class="network-icon" aria-hidden="true">
                         <li><a href="mailto:wangyi@dgut.edu.cn" aria-label="envelope"><i
@@ -61,29 +83,6 @@ The **DGUT-301 ALIS-Lab** has been a center of excellence for Artificial Intelli
                             <li>Adversarial Machine Learning</li>
                             <li>Content-based Image Retrieval</li>
                             <li>Biometrics Identification</li>
-                        </ul>
-                    </div>
-                    <div class="col-md-7">
-                        <div class="section-subheading">Education</div>
-                        <ul class="ul-edu fa-ul mb-0">
-                            <li><i class="fa-li fas fa-graduation-cap"></i>
-                                <div class="description">
-                                    <p class="course">PhD in Computer Science, 2009</p>
-                                    <p class="institution">RMIT University, Melbourne, Australia</p>
-                                </div>
-                            </li>
-                            <li><i class="fa-li fas fa-graduation-cap"></i>
-                                <div class="description">
-                                    <p class="course">MEng in Telecommunications, 2003</p>
-                                    <p class="institution">the University of Melbourne (Melb.), Melbourne Australia</p>
-                                </div>
-                            </li>
-                            <li><i class="fa-li fas fa-graduation-cap"></i>
-                                <div class="description">
-                                    <p class="course">BEng in Electronics Engineering, 2002</p>
-                                    <p class="institution">the South China University of Technology (SCUT), Guangzhou, China</p>
-                                </div>
-                            </li>
                         </ul>
                     </div>
                 </div>
