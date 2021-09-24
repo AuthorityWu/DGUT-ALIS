@@ -45,6 +45,7 @@ contact_links:
 # Site header
 
 main_menu:
+  hero_media: logo.jpg
   enable: true
   align: r
   show_logo: true
