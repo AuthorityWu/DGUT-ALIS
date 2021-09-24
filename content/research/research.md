@@ -65,9 +65,11 @@ design:
       <div style="margin-left:3%; float:left; width: 95%; height:100%;">
         <img style="width:100%;" src="Adversarial-Attacks.jpg">
       </div>
-      <span>
-        Figure 1 An example of adversarial attack on CBIR systems.
-      </span>
+      <div>
+        <span>
+          Figure 1 An example of adversarial attack on CBIR systems.
+        </span>
+      </div>
     </div>
   </div>
 </div>
