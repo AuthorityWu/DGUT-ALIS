@@ -195,7 +195,7 @@ design:
         </span>
       </div>
       <div style="margin-left:3%; float:left; width: 30%; height:95%;">
-        <img style="width:100%;" src="1.jpg">
+        <img style="width:100%;" src="Anomaly-Detection.jpg">
       <div>
     </div>
   </div>
