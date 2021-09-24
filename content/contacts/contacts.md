@@ -11,8 +11,7 @@ design:
   columns: '1'
 ---
 
-<section id="contact" class="home-section wg-contact" style="padding: 0;width: 95%;">
-    <div class="home-section-bg"></div>
+<section id="contact" class="home-section wg-contact" style="padding: 0; width: 95%;">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-12">
