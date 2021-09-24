@@ -25,7 +25,6 @@ email: wangyi@dgut.edu.cn
 phone: +86 0769-2286-2015
 address:
   street: No.1 University Road
-  directions: School of Cybersecurity, Building 9A, Level 3, Room 301
   # city: Dongguan
   # region: Songshan Lake
   city: Songshan Lake
@@ -36,6 +35,7 @@ address:
 coordinates:
   latitude: '22.90522222222'
   longitude: '113.8741'
+directions: School of Cybersecurity, Building 9A, Level 3, Room 301
 office_hours:
   - '09:00 ~ 17:00'
 # appointment_url: 'https://calendly.com'
