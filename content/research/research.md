@@ -168,7 +168,7 @@ design:
 </div>
 <hr>  
 
-<div>
+<!-- <div>
   <h2 id="Anomaly-Detection" style="display: block; text-align: center; margin: 50px 0 20px 0;">
     Anomaly Detection
   </h2>
@@ -179,7 +179,7 @@ design:
       </span>
     </div>
   </div>
-</div>
+</div> -->
 
 <hr>
 
