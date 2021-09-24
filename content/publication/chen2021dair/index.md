@@ -31,7 +31,7 @@ abstract: There is an increasing interest in studying adversarial attacks on ima
 
 
 # links:
-url_pdf: https://dl.acm.org/doi/abs/10.1145/3404835.3462887
+url_pdf: https://dl.acm.org/doi/pdf/10.1145/3404835.3462887
 # url_code: https://github.com/ALIS-Lab/AAAI2021-PDD
 # url_code: ''
 # url_dataset: ''

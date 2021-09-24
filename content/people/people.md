@@ -19,10 +19,10 @@ content:
   user_groups:
   - Principal Investigators
   - Researchers
-  - Faculty Member
+  - Faculty Members
   - Postdocs
-  - Research Assistant
-  - Postgraduate Student
+  - Research Assistants
+  - Postgraduate Students
   - Administration
   - Visitors
   - Alumni

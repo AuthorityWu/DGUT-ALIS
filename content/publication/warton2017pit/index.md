@@ -27,7 +27,7 @@ abstract: Bootstrap methods are widely used in statistics, and bootstrapping of 
 
 
 # links: 
-url_pdf: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0181790
+url_pdf: https://storage.googleapis.com/plos-corpus-prod/10.1371/journal.pone.0181790/1/pone.0181790.pdf?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=wombat-sa%40plos-prod.iam.gserviceaccount.com%2F20210924%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20210924T092005Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=62c3a06a1525eb508a2917f69a9610e725400d51c3a2a7172653dbcecffd48bcb1f5107826bdf584a4affabad123e8983efd2d60c7b38f6db71ecb907ee8777da9455738fa3870629407d1f641dc7e81bd1556bd659a62b09781ad5566b663cc4af7a84d9b62f1e3b42fdfbb0724ea45afdbbd29297a0d6e15035d0383f315ab5d8797bbfceb2f96639d3628b1ac3827131df7538662c74a5b054281e58215a0217de742bfcc73c5d376dd017793e2e27c39dc817714ade8ee8b22190ebce65ee5fcb44bb2bf4d7cf10a4c77c125a5acf14d17f4e59d1da4d5da1fe862ebed700e93a0009308da63e22f9b00574f07c9b9489467d4d54d81a7fb32d0580a4290
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''

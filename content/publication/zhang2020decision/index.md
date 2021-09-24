@@ -29,7 +29,7 @@ abstract: Learning-based classifiers are found to be susceptible to adversarial 
 
 
 # links: 
-url_pdf: https://link.springer.com/article/10.1007/s11280-020-00813-y
+url_pdf: https://link.springer.com/content/pdf/10.1007/s11280-020-00813-y.pdf
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
