@@ -41,7 +41,7 @@ design:
           <a href="#Model-Robustness">Model Robustness</a>
         </li>
         <li>
-          <a href="#Privacy-Protection">Privacy Protection</a>
+          <a href="#Privacy-Aware-Learning">Privacy-Aware Learning</a>
         </li>
         <li>
           <a href="#Causality-Inference">Causality Inference</a>
@@ -120,8 +120,8 @@ design:
 <hr>  
 
 <div>
-  <h2 id="Privacy-Protection" style="display: block; text-align: center; margin: 50px 0 20px 0;">
-    Privacy Protection
+  <h2 id="Privacy-Aware-Learning" style="display: block; text-align: center; margin: 50px 0 20px 0;">
+    Privacy-Aware Learning
   </h2>
   <div>
     <div style="float:left; padding-left: 20px; width: 100%">
