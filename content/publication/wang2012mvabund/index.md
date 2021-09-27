@@ -23,9 +23,12 @@ publication_types: ["2"]
 publication: In *Methods in Ecology and Evolution, 2012*
 publication_short: In *Methods in Ecology and Evolution*
 
-# abstract: 1. The mvabund package for R provides tools for model-based analysis of multivariate abundance data in ecology. 2. This includes methods for visualising data, fitting predictive models, checking model assumptions, as well as testing hypotheses about the community–environment association. 3. This paper briefly introduces the package and demonstrates its functionality by example.
+abstract: 'Summary: 
+1. The mvabund package for R provides tools for model-based analysis of multivariate abundance data in ecology. 
+2. This includes methods for visualising data, fitting predictive models, checking model assumptions, as well as testing hypotheses about the community–environment association. 
+3. This paper briefly introduces the package and demonstrates its functionality by example.'
 # Summary. An optional shortened abstract.
-summary: 1. The mvabund package for R provides tools for model-based analysis of multivariate abundance data in ecology. 2. This includes methods for visualising data, fitting predictive models, checking model assumptions, as well as testing hypotheses about the community–environment association. 3. This paper briefly introduces the package and demonstrates its functionality by example.
+# summary: 
 
 
 # links: 

@@ -22,15 +22,15 @@ publication_types: ["2"]
 publication: In *Methods in Ecology and Evolution, 2012*
 publication_short: In *Methods in Ecology and Evolution*
 
-# abstract: 1. The mvabund package for R provides tools for model-based analysis of multivariate abundance data in ecology. 2. This includes methods for visualising data, fitting predictive models, checking model assumptions, as well as testing hypotheses about the community–environment association. 3. This paper briefly introduces the package and demonstrates its functionality by example.
+abstract: 'Summary: 
+1. A critical property of count data is its mean–variance relationship, yet this is rarely considered inmultivariate analysis in ecology. 
+2. This study considers what is being implicitly assumed about the mean–variance relationship indistance-based analyses – multivariate analyses based on a matrix of pairwise distances – and whatthe eﬀect is of any misspeciﬁcation of the mean–variance relationship. 
+3. It is shown that distance-based analyses make implicit assumptions that are typically out-of-stepwith what is observed in real data, which has major consequences. 
+4. Potential consequences of this mean–variance misspeciﬁcation are: confounding location anddispersion eﬀects in ordinations; misleading results when trying to identify taxa in which an eﬀect isexpressed; failure to detect a multivariate eﬀect unless it is expressed in high-variance taxa. 
+5. Data transformation does not solve the problem. 
+6. A solution is to use generalised linear models and their recent multivariate generalisations, whichis shown here to have desirable properties.'
 # Summary. An optional shortened abstract.
-summary: '1. A critical property of count data is its mean–variance relationship, yet this is rarely considered inmultivariate analysis in ecology. 
-2. This study considers what is being implicitly assumed about the mean–variance relationship indistance-based analyses – multivariate analyses based on a matrix of pairwise distances – and whatthe eﬀect is of any misspeciﬁcation of the mean–variance relationship.
-3. It is shown that distance-based analyses make implicit assumptions that are typically out-of-stepwith what is observed in real data, which has major consequences.
-4. Potential consequences of this mean–variance misspeciﬁcation are: confounding location anddispersion eﬀects in ordinations; misleading results when trying to identify taxa in which an eﬀect isexpressed; failure to detect a multivariate eﬀect unless it is expressed in high-variance taxa.
-5. Data transformation does not solve the problem.
-6. A solution is to use generalised linear models and their recent multivariate generalisations, whichis shown here to have desirable properties.
-Key-words: Bray–Curtis distance, community composition, generalised linear models,mean–variance relationship, multi-dimensi onal scaling, multivar iate analysis, PERMANOVA,SIMPER, species-by-site data'
+# summary: 
 
 # links: 
 url_pdf: https://besjournals.onlinelibrary.wiley.com/doi/epdf/10.1111/j.2041-210X.2011.00127.x
