@@ -28,7 +28,7 @@ abstract: Bootstrap methods are widely used in statistics, and bootstrapping of 
 
 
 # links: 
-url_pdf: 'https://storage.googleapis.com/plos-corpus-prod/10.1371/journal.pone.0181790/1/pone.0181790.pdf?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=wombat-sa%40plos-prod.iam.gserviceaccount.com%2F20210927%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20210927T083134Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=2c82fd5e7240c03a6b349621d29a2b72dfa2b2def3b6fb998fdff9d1807c8c97a792dfc21a4e39828702f913687ad6a503178a7c0b62a238c011e30edb305893bc5a62d188f9d83681a66d07bbb703c2bde02e69e19c636cf44adedcf4fb431380a8a94e0d72eb323d299d135eaca07269eacd07b9229f163c81efc1b6f6d19bb1ed67213a7231357a234dcf401dcc042b23199c97bf0f4524d33e03dca83358ecb22b9365e1a7d48301d96fb16b66c1dd17c6749ee17b6d9dca1b595c7f68203c3ef7aad5ce5fc258470d05d46e355214d0998be7f882ad67b970fda0164bfe21378104803fa0f0447f9d935a928b2be9781f6f099239043f1610a325fc87c8'
+url_pdf: https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC5524334&blobtype=pdf
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
