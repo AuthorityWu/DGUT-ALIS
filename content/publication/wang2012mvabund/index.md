@@ -11,7 +11,7 @@ date: ""
 doi: "10.1111/j.2041-210X.2012.00190.x"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2012-02-21"
+publishDate: "2012-02-21T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
