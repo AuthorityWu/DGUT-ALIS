@@ -170,7 +170,7 @@ design:
   <div>
     <div style="float:left; padding-left: 20px; width: 100%">
       <span>
-        Anomaly detection is an important topic in data mining to identify data points, events, and/or observations that deviate from the data’s normal behavior. Anomalous data can indicate critical incidents, such as a technical glitch, or potential opportunities, e.g., a change in consumer behavior. We are currently developing one-class classifiers for anomaly detection. We are also interested in studying the relationship between anomaly detection and adversarial examples. Figure 6 illustrates the differences.
+        Anomaly detection is an important topic in data mining to identify data points, events, and/or observations that deviate from the data’s normal behavior. Anomalous data can indicate critical incidents, such as a technical glitch, or potential opportunities, e.g., a change in consumer behavior. We are currently developing one-class classifiers for anomaly detection. We are also interested in studying the relationship between anomaly detection and adversarial examples. Figure 6 illustrates the subtle difference of these two types.
       </span>
     </div>
     <div style="width: 100%;">
@@ -178,7 +178,7 @@ design:
         <img style="margin: auto;width:60%;padding-top:20px;" src="Anomaly-Detection.jpg">
       </div>
       <div style="margin:auto;text-align:center;padding-top:10px;padding-bottom: 30px;">
-        <span>Figure 6 illustrates the subtle difference of these two types.</span>
+        <span>Figure 6 Difference of OOD examples and adversarial examples.</span>
       </div>
     </div>
   </div>
