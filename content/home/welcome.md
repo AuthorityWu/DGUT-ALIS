@@ -48,13 +48,13 @@ The **DGUT-301 ALIS-Lab** has been a center of excellence for Artificial Intelli
                                 <li><i class="fa-li fas fa-graduation-cap"></i>
                                     <div class="description">
                                         <p class="course">MEng in Telecommunications, 2003</p>
-                                        <p class="institution">University of Melbourne (Melb.), Melbourne Australia</p>
+                                        <p class="institution">University of Melbourne, Melbourne Australia</p>
                                     </div>
                                 </li>
                                 <li><i class="fa-li fas fa-graduation-cap"></i>
                                     <div class="description">
                                         <p class="course">BEng in Electronics Engineering, 2002</p>
-                                        <p class="institution">South China University of Technology (SCUT), Guangzhou, China</p>
+                                        <p class="institution">South China University of Technology, Guangzhou, China</p>
                                     </div>
                                 </li>
                             </ul>
@@ -74,7 +74,7 @@ The **DGUT-301 ALIS-Lab** has been a center of excellence for Artificial Intelli
             <div class="col-12 col-lg-8" style="margin-top: 50px;">
                 <div class="article-style">
                     <!-- <h2>Biography</h2> -->
-                    <p style="font-size: 1rem;">Dr. Yi Wang is a professor of artificial intelligence in the <a href="https://css.dgut.edu.cn">Department of Software Engineering</a> at the Dongguan University of Technology (DGUT). She worked as a research associate with the <a href="https://www.maths.unsw.edu.au/research/biostatistics-and-ecology">School of Mathematics and Statistics</a> and the <a href="https://www.unsw.edu.au/engineering/computer-science-and-engineering">School of Computer Science and Engineering</a> at the University of New South Wales (UNSW), Sydney, Australia, in 2009-2012. She worked as a research assistant professor with the <a href="https://www.comp.hkbu.edu.hk/v1/">Department of Computer Science</a> at Hong Kong Baptist University (HKBU), Hong Kong, in 2012-2016. She joined DGUT in 2016 and currently leads the Research Group of Advanced Learning and Information Security (ALIS). </p>
+                    <p style="font-size: 1rem;">Dr. Yi Wang is a professor of artificial intelligence in the <a href="https://css.dgut.edu.cn">Department of Software Engineering</a> at Dongguan University of Technology (DGUT). She worked as a research associate with the <a href="https://www.maths.unsw.edu.au/research/biostatistics-and-ecology">School of Mathematics and Statistics</a> and the <a href="https://www.unsw.edu.au/engineering/computer-science-and-engineering">School of Computer Science and Engineering</a> at the University of New South Wales (UNSW), Sydney, Australia, in 2009-2012. She worked as a research assistant professor with the <a href="https://www.comp.hkbu.edu.hk/v1/">Department of Computer Science</a> at Hong Kong Baptist University (HKBU), Hong Kong, in 2012-2016. She joined DGUT in 2016 and currently leads the Research Group of Advanced Learning and Information Security (ALIS). </p>
                 </div>
                 <div class="row">
                     <div class="col-md-5">
