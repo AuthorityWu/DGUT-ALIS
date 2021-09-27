@@ -6,7 +6,7 @@ authors:
 - Yi Wang
 
 date: ""
-doi: "https://ieeexplore.ieee.org/document/8499071"
+doi: "10.1109/BigMM.2018.8499071"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2018-09-13T00:00:00Z"

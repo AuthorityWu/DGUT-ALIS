@@ -10,7 +10,7 @@ authors:
 - Yi Wang
 
 date: ""
-doi: "https://doi.org/10.1609/aaai.v34i05.6330"
+doi: "10.1609/aaai.v34i05.6330"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-04-03T00:00:00Z"

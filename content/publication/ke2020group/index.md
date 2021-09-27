@@ -9,7 +9,7 @@ authors:
 - Linlin Shen
 
 date: ""
-doi: "https://doi.org/10.1609/aaai.v34i07.6782"
+doi: "10.1609/aaai.v34i07.6782"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-04-03T00:00:00Z"
