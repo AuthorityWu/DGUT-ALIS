@@ -7,7 +7,8 @@ authors:
 - Hua Wang
 
 date: ""
-doi: "https://link.springer.com/chapter/10.1007/978-3-030-02922-7_7"
+# doi: "https://link.springer.com/chapter/10.1007/978-3-030-02922-7_7"
+DOI: "https://link.springer.com/chapter/10.1007/978-3-030-02922-7_7"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2018-10-20"
