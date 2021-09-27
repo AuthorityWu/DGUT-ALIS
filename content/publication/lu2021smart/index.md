@@ -11,6 +11,7 @@ authors:
 
 date: ""
 # doi: "https://dl.acm.org/doi/10.1145/3460426.3463640"
+DOI: "https://dl.acm.org/doi/10.1145/3460426.3463640"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-08-24T00:00:00Z"
@@ -33,6 +34,7 @@ abstract: Deep hashing based retrieval models have been widely used in large-sca
 
 # links:
 url_pdf: https://dl.acm.org/doi/pdf/10.1145/3460426.3463640
+url_doi: https://dl.acm.org/doi/10.1145/3460426.3463640
 # url_code: https://github.com/ALIS-Lab/AAAI2021-PDD
 # url_code: ''
 # url_dataset: ''
@@ -41,6 +43,5 @@ url_pdf: https://dl.acm.org/doi/pdf/10.1145/3460426.3463640
 # url_slides: ''
 # url_source: ''
 # url_video: ''
-url_doi: https://dl.acm.org/doi/10.1145/3460426.3463640
 ---
 ---
