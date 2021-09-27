@@ -126,7 +126,7 @@ design:
   <div>
     <div style="float:left; padding-left: 20px; width: 100%">
       <span>
-        Privacy-aware machine learning includes two aspects: 1) privacy leakage, and 2) privacy protection. In privacy leakage, an attacker intends to derive sensitive information from machine learning models. The privacy leakage problems include membership inference, data property inference, sample reconstruction, and model extraction. In privacy protection, one studies the countermeasures of how to prevent machine learning models from leaking privacy, e.g., differential privacy, model compression, selective sharing and more. We are currently studying privacy and security issues in deep learning, including training data privacy and model privacy. Examples are various inference attacks in collaborative learning and inference-based similarity search for privacy-preserving biometric identification. Figure 4 demonstrates three different categories of research problems in privacy and machine learning.
+        Privacy-aware machine learning includes two aspects: 1) privacy leakage, and 2) privacy protection. In privacy leakage, an attacker intends to derive sensitive information from machine learning models. The privacy leakage problems include membership inference, data property inference, sample reconstruction, and model extraction. In privacy protection, one studies the countermeasures of how to prevent machine learning models from leaking privacy, e.g., differential privacy, model compression, selective sharing and more. We are currently studying privacy and security issues in deep learning, including training data privacy and model privacy. Examples are various inference attacks in collaborative learning and inference-based similarity search for privacy-preserving biometric identification. Figure 4 demonstrates three different categories of research problems in privacy and machine learning (ML): (a) Model privacy and data privacy; (b) ML-enhanced privacy protection; (c) ML-based privacy attack.
       </span>
     </div>
     <div style="width: 100%;">
@@ -134,7 +134,7 @@ design:
         <img style="margin: auto;width:60%;padding-top:20px;" src="Privacy-Protection.jpg">
       </div>
       <div style="width:80%; margin:auto;text-align:center;padding-top:10px;padding-bottom: 30px;">
-        <span>Figure 4 Three different categories of research problems in privacy and ML: (a) Privacy of ML model and data; (b) ML enhanced privacy protection; (c) ML-based privacy attack.</span>
+        <span>Figure 4 Research problems in privacy and ML.</span>
       </div>
     </div>
   </div>
