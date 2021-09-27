@@ -178,7 +178,7 @@ design:
         <img style="margin: auto;width:60%;padding-top:20px;" src="Anomaly-Detection.jpg">
       </div>
       <div style="margin:auto;text-align:center;padding-top:10px;padding-bottom: 30px;">
-        <span>Figure 6 Difference of OOD examples and adversarial examples.</span>
+        <span>Figure 6 illustrates the subtle difference of these two types.</span>
       </div>
     </div>
   </div>
