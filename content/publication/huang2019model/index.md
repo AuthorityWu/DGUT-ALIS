@@ -7,7 +7,7 @@ authors:
 - Wei Wang
 
 date: ""
-doi: "https://www.ijcai.org/proceedings/2019/651"
+doi: "10.24963/ijcai.2019/651"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-08-17T00:00:00Z"
