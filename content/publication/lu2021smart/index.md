@@ -10,8 +10,7 @@ authors:
 - Xiaochun Yang
 
 date: ""
-# doi: "https://dl.acm.org/doi/10.1145/3460426.3463640"
-test: "https://dl.acm.org/doi/10.1145/3460426.3463640"
+doi: "10.1145/3460426.3463640"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-08-24T00:00:00Z"
