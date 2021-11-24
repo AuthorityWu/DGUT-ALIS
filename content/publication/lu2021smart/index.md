@@ -1,6 +1,6 @@
 ---
 # title: "An example conference paper"
-title: "A Smart Adversarial Attack on Deep Hashing Based Image Retrieval"
+title: "A Smart Adversarial Attack on Deep Hashing Based Image Retrieval (Best Paper Award)"
 authors:
 - Junda Lu
 - Mingyang Chen
