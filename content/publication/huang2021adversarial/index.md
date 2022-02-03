@@ -9,7 +9,8 @@ authors:
 - Linlin Shen
 - Feng Liu
 date: "2020-12-02T00:00:00Z"
-doi: `https://ojs.aaai.org/index.php/AAAI/article/view/16955`
+doi: 
+- https://ojs.aaai.org/index.php/AAAI/article/view/16955
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-12-02T00:00:00Z"
