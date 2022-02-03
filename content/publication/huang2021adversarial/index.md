@@ -9,7 +9,7 @@ authors:
 - Linlin Shen
 - Feng Liu
 date: "2020-12-02T00:00:00Z"
-doi: ""
+doi: https://ojs.aaai.org/index.php/AAAI/article/view/16955
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-12-02T00:00:00Z"
@@ -35,7 +35,6 @@ url_pdf: https://www.aaai.org/AAAI21Papers/AAAI-7120.HuangB.pdf
 url_code: https://github.com/ALIS-Lab/AAAI2021-PDD
 # url_code: ''
 # url_dataset: ''
-url_doi: https://ojs.aaai.org/index.php/AAAI/article/view/16955
 # url_poster: https://virtual.2021.aaai.org/paper_AAAI-7120.html
 # url_project: ''
 # url_slides: ''
