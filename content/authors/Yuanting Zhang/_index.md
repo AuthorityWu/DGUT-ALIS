@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Qichao Chen
+title: Yuanting Zhang
 
 # Username (this should match the folder name)
 authors:
-- Qichao Chen
+- Yuanting Zhang
 
 weight: 2
 
@@ -24,7 +24,7 @@ social:
 #   link: https://github.com/AuthorityWu
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:chenqichaogm@gmail.com'
+  link: 'mailto:kkzyt@outlook.com'
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/AuthorityWu
