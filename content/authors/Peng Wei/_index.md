@@ -22,7 +22,7 @@ superuser: false
 social:
 - icon: envelope
   icon_pack: fas
-  link: ''
+  link: 'mailto:1403227480@qq.com'
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/AuthorityWu
