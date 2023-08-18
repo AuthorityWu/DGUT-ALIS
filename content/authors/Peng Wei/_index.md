@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Tianjian Wang
+title: Peng Wei
 
 # Username (this should match the folder name)
 authors:
-- Tianjian Wang
+- Peng Wei
 
 weight: 5
 
@@ -22,7 +22,7 @@ superuser: false
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:b13247990380@126.com'
+  link: ''
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/AuthorityWu
