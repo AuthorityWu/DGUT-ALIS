@@ -31,7 +31,7 @@ abstract: Recent studies show that an ensemble of deep networks can have better 
 
 
 # links:
-# url_pdf: https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Boosting_Accuracy_and_Robustness_of_Student_Models_via_Adaptive_Adversarial_CVPR_2023_paper.pdf
+url_pdf: '#'
 # url_code: ''
 # url_code: ''
 # url_dataset: ''
