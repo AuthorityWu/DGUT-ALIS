@@ -24,14 +24,14 @@ publication_types: ["1"]
 publication: In *The 26th European Conference on Artificial Intelligence*
 publication_short: In *ECAI2023*
 
-abstract: Recent studies show that an ensemble of deep networks can have better adversarial robustness by increasing the deep feature learning diversity of base models to limit the adversarial transferability. However, existing schemes mostly rely on a second-order method for gradient regularization which usually involves a heavy computation overhead. In this paper, we propose a simple yet effective method which eliminates the use of a second-order optimization and significantly reduces the computation complexity of regularized simultaneous training of deep ensemble networks. For the first time, we show analytically that stochastic regularization by the proposed approach can promote both model smoothness and feature diversity of representation learning in the deep space. We also show that the proposed method is able to achieve a better gain of certified robustness. This is due to the effect of a prioritized feature selection enabled by an adaptive and continuous sampling of neuron activation among the base networks. Experimental results show that our method can improve adversarial robustness significantly comparing with the existing ensemble models on several image benchmark datasets. The ensemble performance can be further boosted by complementing the stochastic regularization approach with other defense paradigms such as adversarial training.
+abstract: Recent studies show that an ensemble of deep networks can have better adversarial robustness by increasing the learning diversity of base models to limit adversarial transferability. However, existing schemes mostly rely on a second-order method for gradient regularization which usually involves a heavy computation overhead. In this paper, we propose a simple yet effective method which eliminates the use of a second-order optimization and significantly reduces the computation complexity of regularized simultaneous training of deep ensemble networks. For the first time, we show analytically that stochastic regularization by the proposed approach can promote both model smoothness and feature diversity of representation learning in the deep space. We also show that the proposed method is able to achieve a better gain of certified robustness. This is due to the effect of a prioritized feature selection enabled by an adaptive and continuous sampling of neuron activation among the base networks. Experimental results show that our method can improve adversarial robustness signiﬁcantly comparing with the existing ensemble models on several image benchmark datasets. The ensemble performance can be further boosted by complementing the stochastic regularization approach with other defense paradigms such as adversarial training.
 
 # Summary. An optional shortened abstract.
 # summary: We encouraging ensemble diversity on learning high-level feature representations and gradient dispersion in simultaneous training of deep ensemble networks.
 
 
 # links:
-url_pdf: '#'
+url_pdf: 'https://ecai2023.eu/acceptedpapers'
 # url_code: ''
 # url_code: ''
 # url_dataset: ''
