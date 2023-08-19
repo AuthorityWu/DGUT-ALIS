@@ -9,7 +9,7 @@ authors:
 - Da Luo
 
 date: ""
-doi: ""
+doi: "https://ecai2023.eu/acceptedpapers"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-09-30T00:00:00Z"
