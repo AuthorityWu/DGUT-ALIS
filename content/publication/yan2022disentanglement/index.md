@@ -29,7 +29,7 @@ abstract: Existing adversarial face detectors are mostly developed against speci
 
 
 # links:
-url_pdf: https://link.springer.com/book/10.1007/978-3-031-20233-9
+url_pdf: https://link.springer.com/chapter/10.1007/978-3-031-20233-9_15
 # url_code: https://github.com/ALIS-Lab/AAAI2021-PDD
 # url_code: ''
 # url_dataset: ''
