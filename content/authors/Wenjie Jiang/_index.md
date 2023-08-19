@@ -6,7 +6,7 @@ title: Wenjie Jiang
 authors:
 - Wenjie Jiang
 
-weight: 1
+weight: 8
 
 # Is this the primary user of the site?
 superuser: false
