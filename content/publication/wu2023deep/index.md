@@ -31,8 +31,7 @@ abstract: Recent studies show that an ensemble of deep networks can have better 
 
 
 # links:
-url_pdf: 'https://ecai2023.eu/acceptedpapers'
-# url_code: ''
+url_pdf: https://ecai2023.eu/acceptedpapers
 # url_code: ''
 # url_dataset: ''
 # url_poster:  https://virtual.2021.aaai.org/paper_AAAI-7120.html
