@@ -10,7 +10,7 @@ authors:
 - Wei Wang
 
 date: ""
-doi: "https://openaccess.thecvf.com/content/CVPR2023/html/Huang_Boosting_Accuracy_and_Robustness_of_Student_Models_via_Adaptive_Adversarial_CVPR_2023_paper.html"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-06-18T00:00:00Z"
