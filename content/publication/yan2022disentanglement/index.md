@@ -7,7 +7,7 @@ authors:
 - Yi Wang
 
 date: ""
-doi: "10.1145/3404835.3462887"
+doi: "10.1007/978-3-031-20233-9_15"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-11-11T00:00:00Z"
