@@ -79,3 +79,13 @@ ul.ul-edu li .description p.institution {
 #profile .network-icon {
   margin-top: 10px;
 }
+
+ul.ul-edu li .description p.institution {
+  font-size: .65rem;
+  text-align: left;
+  color: rgba(0,0,0,.6);
+}
+
+select.pubtype-select{
+ display: none;
+}
