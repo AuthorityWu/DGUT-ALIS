@@ -34,7 +34,7 @@ abstract: Reversible face anonymization, unlike traditional face pixelization, s
 
 
 # links:
-url_pdf: https://ieeexplore.ieee.org/document/10644096
+url_pdf: https://arxiv.org/pdf/2408.09458
 # url_code: https://github.com/ALIS-Lab/AAAI2021-PDD
 # url_code: ''
 # url_dataset: ''
