@@ -9,11 +9,11 @@ authors:
 - Da Luo
 
 date: ""
-doi: ""
+doi: "10.3233/FAIA230577"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2023-09-30T00:00:00Z"
-publishDate: "2023-07-16T00:00:00Z"
+publishDate: "2023-10-1T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -32,7 +32,7 @@ abstract: Recent studies show that an ensemble of deep networks can have better 
 
 
 # links:
-url_pdf: https://ecai2023.eu/acceptedpapers
+url_pdf: https://ebooks.iospress.nl/pdf/doi/10.3233/FAIA230577
 # url_code: ''
 # url_dataset: ''
 # url_poster:  https://virtual.2021.aaai.org/paper_AAAI-7120.html
