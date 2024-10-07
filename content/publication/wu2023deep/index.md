@@ -8,7 +8,7 @@ authors:
 - Zhiwei Ke
 - Da Luo
 
-date: ""
+date: "2023-09-30T00:00:00Z"
 doi: "10.3233/FAIA230577"
 
 # Schedule page publish date (NOT publication's date).
