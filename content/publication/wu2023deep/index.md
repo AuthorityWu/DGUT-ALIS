@@ -9,8 +9,7 @@ authors:
 - Da Luo
 
 date: ""
-# doi: "10.3233/FAIA230577"
-doi: ""
+doi: "10.3233/FAIA230577"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-09-30T00:00:00Z"
