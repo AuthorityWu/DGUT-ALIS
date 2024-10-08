@@ -33,7 +33,7 @@ abstract: Federated learning (FL) has a great potential in large-scale machine l
 
 # links:
 url_pdf: https://www.ecai2024.eu/programme/accepted-papers
-# url_code: ''
+url_code: https://github.com/LIUkity/FedHyb
 # url_dataset: ''
 # url_poster:  https://virtual.2021.aaai.org/paper_AAAI-7120.html
 # url_project: ''
